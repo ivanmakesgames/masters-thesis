@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8ddb53bfde1e64a47912b0a04e5d3578
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: dda12f74ff9116a42b23482252b2c482, type: 3}
+  _instancesCopy:
+  - {fileID: 11400000, guid: 5e6880fe7af26054c84e42278f13f752, type: 2}
+  _fileAsset: {instanceID: 0}
+  _assetPath: Assets/substance/asphalt pavement.sbsar
