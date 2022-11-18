@@ -120,7 +120,7 @@ MonoBehaviour:
   m_MinSize: {x: 400, y: 200}
   m_MaxSize: {x: 32384, y: 16192}
   vertical: 0
-  controlID: 126
+  controlID: 125
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -145,7 +145,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
-  controlID: 127
+  controlID: 126
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -170,7 +170,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 128
+  controlID: 127
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -216,8 +216,8 @@ MonoBehaviour:
     y: 0
     width: 1042
     height: 798
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 202, y: 221}
+  m_MaxSize: {x: 4002, y: 4021}
   m_ActualView: {fileID: 15}
   m_Panes:
   - {fileID: 15}
@@ -299,8 +299,8 @@ MonoBehaviour:
     y: 0
     width: 452
     height: 939
-  m_MinSize: {x: 275, y: 50}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 276, y: 71}
+  m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 22}
   m_Panes:
   - {fileID: 22}
@@ -673,9 +673,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -20.993986, y: 0.08995182, z: 3.4870532}
+    m_Target: {x: -15.056317, y: 0.055711813, z: -23.90007}
     speed: 2
-    m_Value: {x: -20.993986, y: 0.08995239, z: 3.487051}
+    m_Value: {x: -15.056313, y: 0.055711776, z: -23.900064}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -714,7 +714,7 @@ MonoBehaviour:
       m_Fade:
         m_Target: 0
         speed: 2
-        m_Value: 1
+        m_Value: 0
       m_Color: {r: 0.5, g: 0.5, b: 0.5, a: 0.4}
       m_Pivot: {x: 0, y: 0, z: 0}
       m_Size: {x: 1, y: 1}
@@ -722,13 +722,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.12177242, y: -0.10185624, z: 0.009959125, w: 0.98730135}
+    m_Target: {x: 0.031535424, y: -0.40784815, z: 0.011201327, w: 0.91254824}
     speed: 2
-    m_Value: {x: 0.12175331, y: -0.10333365, z: 0.010141436, w: 0.9871147}
+    m_Value: {x: 0.031481486, y: -0.4119084, z: 0.011341964, w: 0.9106107}
   m_Size:
-    m_Target: 8.117322
+    m_Target: 3.2199087
     speed: 2
-    m_Value: 8.499814
+    m_Value: 3.2199087
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -973,7 +973,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/freeBPR/lumpy-wet-concrete-unity
+    - Assets/Import/bicycle_model/materials
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 0
@@ -987,7 +987,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: aad60000
     m_LastClickedID: 54954
-    m_ExpandedIDs: 000000009aa1000034d6000036d6000038d600003ad600003cd600003ed6000040d6000042d6000044d6000046d6000048d600004ad600004cd600004ed6000050d6000052d6000054d6000056d6000058d600005ad600005cd600005ed6000060d6000062d6000064d6000066d6000068d600006ad600006cd600006ed6000070d6000072d60000
+    m_ExpandedIDs: 0000000020b400006ecb000070cb000072cb000074cb000076cb000078cb00007acb00007ccb00007ecb000080cb000082cb000084cb000086cb000088cb00008acb00008ccb00008ecb000090cb000092cb000094cb000096cb000098cb00009acb00009ccb00009ecb0000a0cb0000a2cb0000a4cb0000a6cb0000a8cb0000aacb0000accb0000aecb0000b0cb0000b2cb0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1012,10 +1012,10 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_AssetTreeState:
-    scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 
-    m_LastClickedID: 0
-    m_ExpandedIDs: ffffffff000000009aa1000034d6000036d6000038d600003ad600003cd600003ed6000040d6000042d6000044d6000046d6000048d600004ad600004cd600004ed6000050d6000052d6000054d6000056d6000058d600005ad600005cd600005ed6000060d6000062d6000064d6000066d6000068d600006ad600006cd600006ed6000070d6000072d60000f0dc0000f4dc000056e40000
+    scrollPos: {x: 0, y: 216}
+    m_SelectedIDs: 7c8dfdff6e8dfdff368dfdff328dfdff2e8dfdfff68cfdff
+    m_LastClickedID: -160522
+    m_ExpandedIDs: ffffffff0000000020b400006ecb000072cb000074cb000076cb000078cb00007acb00007ccb00007ecb000080cb000082cb000084cb000086cb000088cb00008acb00008ccb00008ecb000090cb000092cb000094cb000096cb000098cb00009acb00009ccb00009ecb0000a0cb0000a2cb0000a4cb0000a6cb0000a8cb0000aacb0000aecb0000b2cb000030d50000e80b0100ee0b01005212010054120100
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1040,8 +1040,8 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs: 
-    m_LastClickedInstanceID: 0
+    m_SelectedInstanceIDs: 7c8dfdff6e8dfdff368dfdff328dfdff2e8dfdfff68cfdff
+    m_LastClickedInstanceID: -160388
     m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c6230000
     m_RenameOverlay:
@@ -1101,10 +1101,10 @@ MonoBehaviour:
     m_SaveData: []
   m_SceneHierarchy:
     m_TreeViewState:
-      scrollPos: {x: 0, y: 17055}
+      scrollPos: {x: 0, y: 720}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 18bcffff1cbcffff28bcffff24fbffff2e8c000086920000009300000293000088930000d8930000fc9300001a94000044940000d6940000
+      m_ExpandedIDs: 46a1fdffb8c0fdffbcc0fdff24cafdff28cafdffca53feffcc53feffd653feff60ebffff78ebffff7aebffffc4ebffffdcebffffdeebffff02ecffff06ecffff0aecffff0eecffff90f4ffff92f4ffff1cf6ffff20f6ffff24f6ffff28f6ffff76f6ffff78f6ffff8af9ffff8cf9ffffacfaffffc4faffffc6faffff24fbffffd4850000068c0000648d0000908f0000b4920000249a0000a49d000016a30000deaa0000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
