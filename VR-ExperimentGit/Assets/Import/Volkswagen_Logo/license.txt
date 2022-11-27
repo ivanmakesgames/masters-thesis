@@ -1,0 +1,11 @@
+Model Information:
+* title:	Volkswagen Logo
+* source:	https://sketchfab.com/3d-models/volkswagen-logo-cde0e5aff87446278016c629c65cd057
+* author:	VernonSFerguson (https://sketchfab.com/VernonSFerguson)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Volkswagen Logo" (https://sketchfab.com/3d-models/volkswagen-logo-cde0e5aff87446278016c629c65cd057) by VernonSFerguson (https://sketchfab.com/VernonSFerguson) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

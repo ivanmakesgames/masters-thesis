@@ -1,0 +1,11 @@
+Model Information:
+* title:	Lada Niva 4x4
+* source:	https://sketchfab.com/3d-models/lada-niva-4x4-41ac406a63524beb9b87b182ce5559ac
+* author:	king1of1kings (https://sketchfab.com/king1of1kings)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Lada Niva 4x4" (https://sketchfab.com/3d-models/lada-niva-4x4-41ac406a63524beb9b87b182ce5559ac) by king1of1kings (https://sketchfab.com/king1of1kings) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
