@@ -1,0 +1,11 @@
+Model Information:
+* title:	Sabrina Backpack
+* source:	https://sketchfab.com/3d-models/sabrina-backpack-c6bcb30b37e245ca9ba06ed6655c650a
+* author:	Mairly.Atana.Lindor (https://sketchfab.com/Mairly.Atana.Lindor)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Sabrina Backpack" (https://sketchfab.com/3d-models/sabrina-backpack-c6bcb30b37e245ca9ba06ed6655c650a) by Mairly.Atana.Lindor (https://sketchfab.com/Mairly.Atana.Lindor) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
