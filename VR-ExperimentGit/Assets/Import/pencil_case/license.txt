@@ -1,0 +1,11 @@
+Model Information:
+* title:	pencil case
+* source:	https://sketchfab.com/3d-models/pencil-case-937ec50519d94bd6b1772c680cb25b99
+* author:	emilioooo (https://sketchfab.com/emilioooo)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "pencil case" (https://sketchfab.com/3d-models/pencil-case-937ec50519d94bd6b1772c680cb25b99) by emilioooo (https://sketchfab.com/emilioooo) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
