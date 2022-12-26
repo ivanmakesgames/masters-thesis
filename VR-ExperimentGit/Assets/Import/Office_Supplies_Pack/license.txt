@@ -1,0 +1,11 @@
+Model Information:
+* title:	Office Supplies Pack
+* source:	https://sketchfab.com/3d-models/office-supplies-pack-dfc5beb8a75046e384b49e180ee1de1b
+* author:	FrodoUndead (https://sketchfab.com/FrodoUndead)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Office Supplies Pack" (https://sketchfab.com/3d-models/office-supplies-pack-dfc5beb8a75046e384b49e180ee1de1b) by FrodoUndead (https://sketchfab.com/FrodoUndead) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

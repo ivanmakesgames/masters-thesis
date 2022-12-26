@@ -1,0 +1,11 @@
+Model Information:
+* title:	poppy sanatize station
+* source:	https://sketchfab.com/3d-models/poppy-sanatize-station-f31faba29a1c40bc8f73e2cfb5f4d79f
+* author:	npsammy (https://sketchfab.com/npsammy)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "poppy sanatize station" (https://sketchfab.com/3d-models/poppy-sanatize-station-f31faba29a1c40bc8f73e2cfb5f4d79f) by npsammy (https://sketchfab.com/npsammy) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

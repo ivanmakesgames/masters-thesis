@@ -1,0 +1,11 @@
+Model Information:
+* title:	Soap Dispenser
+* source:	https://sketchfab.com/3d-models/soap-dispenser-e340facc59394713aaff25f10cbdb050
+* author:	Red Fox / nokillnando (https://sketchfab.com/nokillnando)
+
+Model License:
+* license type:	CC-BY-SA-4.0 (http://creativecommons.org/licenses/by-sa/4.0/)
+* requirements:	Author must be credited. Modified versions must have the same license. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Soap Dispenser" (https://sketchfab.com/3d-models/soap-dispenser-e340facc59394713aaff25f10cbdb050) by Red Fox / nokillnando (https://sketchfab.com/nokillnando) licensed under CC-BY-SA-4.0 (http://creativecommons.org/licenses/by-sa/4.0/)
