@@ -5,7 +5,7 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scenes/RoomSelector.unity
     guid: dbd84cf630294b549a1e48925ffbf3d1
   - enabled: 1
