@@ -8,6 +8,6 @@ public class SetXROriginPositionClass2 : MonoBehaviour
 
     private void Update()
     {
-        xrOriginTransform.position = new Vector3(xrOriginTransform.position.x, -0.548f, xrOriginTransform.position.z);
+        xrOriginTransform.position = new Vector3(xrOriginTransform.position.x, -0.622f, xrOriginTransform.position.z);
     }
 }

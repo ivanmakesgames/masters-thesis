@@ -6,6 +6,6 @@ public class SetXROriginPositionWhileSeat : MonoBehaviour
 
     private void Update()
     {
-        xrOriginTransform.position = new Vector3(xrOriginTransform.position.x, -1.002f, xrOriginTransform.position.z);
+        xrOriginTransform.position = new Vector3(xrOriginTransform.position.x, -1.026f, xrOriginTransform.position.z);
     }
 }
